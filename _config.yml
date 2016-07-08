@@ -1,0 +1,14 @@
+color:
+  brandColors:
+    - '#FEFEFE'
+    - '#000000'
+    - '#7DA7D7'
+    - '#606261'
+    - '#9B0A0D'
+  brandStrength: 0.478604
+  lightness: 0.810966
+  rhythmicContrast: 0.823499
+  saturation: 0.490991
+layout_spectrum: 0.782658
+name: Barber1
+typography_spectrum: 0.998874
